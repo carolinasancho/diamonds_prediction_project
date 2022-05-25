@@ -12,7 +12,6 @@
 
 * Rick – *our client* – has 5,000 diamonds and asked us to estimate their price based on a historic dataset with over 54,000 diamond prices.
 
-![img](./images/challenge_objectives.png)
 
 <a name="metrics"></a>
 
